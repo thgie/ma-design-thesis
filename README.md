@@ -17,7 +17,7 @@ I also used the following plugins for vscode:
 
 Especially the latter two are very important, since they enable me to access my Zotero BibTex export and render a proper bibliography. In my opinion this plugin is superior to the Obsidian Citation plugin, since you can define the bibliography file in the markdown matter.
 
-I exportet to docx with the help of pandoc. It produced the cleanest version of the document. After that I applied styles I save within Word and did some final layouting. The photo layout is probably the part I'm least proud of. But I can't do everything, can't I ;) ?
+I exported to docx with the help of pandoc. It produced the cleanest version of the document. After that I applied styles I save within Word and did some final layouting. The photo layout is probably the part I'm least proud of. But I can't do everything, can't I ;) ?
 
 (c) 2022 Adrian Demleitner, Biel/Bienne Switzerland. Do not mint this or parts of this work…
 
