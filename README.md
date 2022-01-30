@@ -5,6 +5,8 @@ This research proposal explores the potentials of voice assistant technologies f
 
 This repository holds the raw and compiled material for my MA Design thesis, with a focus on design research. You can access the final product under [MA Thesis - Talking (to) Things](MA%20Thesis%20-%20Talking%20(to)%20Things.pdf).
 
+![This is the cover image for the project.](cover.jpg)
+
 ## Working process
 I wrote the whole document in markdown with Visual Studio Code. I used to write with [Obsidian](https://obsidian.md) which is super comfortable and I encourage everybody to try it if you're still searching for the right writer's tool. Since I'm also a software developer I'm quite comfortable with a code IDE. I found the [foam plugin](https://foambubble.github.io/foam) to be a great replacement for the basics I need in a Zettelkasten, which basically is working with Wikilinks.
 
